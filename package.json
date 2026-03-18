@@ -1,0 +1,22 @@
+{
+  "name": "@yourusername/npm-security-utils",
+  "version": "1.0.0",
+  "description": "Simple cybersecurity utility functions for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOURUSERNAME/npm-security-utils"
+  },
+  "keywords": [
+    "security",
+    "cybersecurity",
+    "npm",
+    "hash",
+    "validation"
+  ],
+  "author": "YOURNAME",
+  "license": "MIT"
+}
