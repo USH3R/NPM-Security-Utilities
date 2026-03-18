@@ -1,3 +1,6 @@
+## How to Run This Utility Demo
+Run the demonstration utilities in GitHub Codespaces or any terminal by typing:
+      bash demo.sh
 
 # NPM Security Utilities
 
