@@ -1,5 +1,5 @@
 {
-  "name": "@yourusername/npm-security-utils",
+  "name": "@USH3R/npm-security-utils",
   "version": "1.0.0",
   "description": "Simple cybersecurity utility functions for Node.js",
   "main": "index.js",
@@ -17,6 +17,6 @@
     "hash",
     "validation"
   ],
-  "author": "YOURNAME",
+  "author": "Brian Dodd",
   "license": "MIT"
 }
